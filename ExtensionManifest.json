@@ -1,9 +1,9 @@
 {
    "type" : "IconPack",
-   "name" : "Overwatch - Hero Illustrations",
+   "name" : "Overwatch - Hero Protraits",
    "author" : "Pukima",
-   "repository" : "https://github.com/Pukima-MacroDeck/Icons-Overwatch-HeroIllustrations",
-   "packageId" : "Pukima.Overwatch.HeroIllustrations",
+   "repository" : "https://github.com/Pukima-MacroDeck/Icons-Overwatch-HeroPortraits",
+   "packageId" : "Pukima.Overwatch.HeroPortraits",
    "version" : "1.0.0",
-   "target-plugin-api-version" : 36,
+   "target-plugin-api-version" : 36
 }
